@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyMaven01/MyMaven01.iml" filepath="$PROJECT_DIR$/MyMaven01/MyMaven01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWar/MyWar.iml" filepath="$PROJECT_DIR$/MyWar/MyWar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMaven01/cache/cache.iml" filepath="$PROJECT_DIR$/MyMaven01/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMaven01/controller/controller.iml" filepath="$PROJECT_DIR$/MyMaven01/controller/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMaven01/firstWeb/firstWeb.iml" filepath="$PROJECT_DIR$/MyMaven01/firstWeb/firstWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMaven01/handler/handler.iml" filepath="$PROJECT_DIR$/MyMaven01/handler/handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMaven01/mapper/mapper.iml" filepath="$PROJECT_DIR$/MyMaven01/mapper/mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMaven01/protal/protal.iml" filepath="$PROJECT_DIR$/MyMaven01/protal/protal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMaven01/service/service.iml" filepath="$PROJECT_DIR$/MyMaven01/service/service.iml" />
+    </modules>
+  </component>
+</project>
